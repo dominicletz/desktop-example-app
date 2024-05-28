@@ -3,7 +3,7 @@ on: ["push", "pull_request"]
 env:
   OTP_GITHUB_URL: https://github.com/erlang/otp.git
   OTP_VERSION: OTP-24.3.4.15
-  WXWIDGETS_REPO: https://github.com/wxWidgets/wxWidgets.git
+  WXWIDGETS_REPO: https://github.com/dominicletz/wxWidgets.git
   WXWIDGETS_VERSION: master
   ELIXIR_VERSION: 1.14.5
   ELIXIR_VARIANT: -otp-24
